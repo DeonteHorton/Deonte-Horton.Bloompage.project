@@ -1,6 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
 .bgc--darkblue{
     background: rgb(39,36,55);
     background: linear-gradient(180deg, rgba(39,36,55,1) 0%, rgba(39,36,55,1) 17%, rgba(53,51,75,1) 48%);
@@ -140,7 +141,7 @@ hr{
     background-color: #e8e8e8;
 }
 .host-prices--width{
-    width: 82%;
+    width: 71%;
 }
 .price-box{
     border-top-right-radius: 5px;
